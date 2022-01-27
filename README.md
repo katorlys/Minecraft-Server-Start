@@ -12,6 +12,13 @@ And it contains to types:
 1. [Auto restart](Start-auto_restart.bat)
 2. [Press any key to restart](Start-press_restart.bat)
 
+## Compatibility
+✔ Java 10+  
+✔ Windows
+
+## Usage
+Put your server core (.jar file) and the batch script into a same folder and double click the batch script.
+
 ## Parameters
 ```batch
 title A Minecraft Server
