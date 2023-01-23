@@ -38,3 +38,5 @@ Java -XX:+AlwaysPreTouch -XX:+DisableExplicitGC -XX:+UseG1GC -XX:+UnlockExperime
 `-Xms1G`: You can customize the storage allocation by changing the number "1".  
 `server-core.jar`: Your server core file name. Must put the server core and this batch file into the same folder.  
 `--nojline nogui`: Remove this code if you want to use the default GUI.
+
+**ProTip!** You can get more flags in [flags.sh](https://flags.sh).
