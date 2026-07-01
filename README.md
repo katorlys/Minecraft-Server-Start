@@ -1,5 +1,6 @@
+# This repository is no longer maintained. Use https://katorlys.github.io/mcflags instead.
 # Minecraft-Server-Start
-[![License](https://img.shields.io/badge/license-MIT-brightgreen?style=flat-square)](LICENSE) [![Pull Requests](https://img.shields.io/github/issues-pr-closed/katorlys/Minecraft-Server-Start?style=flat-square)](https://github.com/katorlys/Minecraft-Server-Start/pulls) [![Issues](https://img.shields.io/github/issues-closed/katorlys/Minecraft-Server-Start?style=flat-square)](https://github.com/katorlys/Minecraft-Server-Start/issues) [![Lines](https://img.shields.io/tokei/lines/github/katorlys/Minecraft-Server-Start?style=flat-square)](https://github.com/katorlys/Minecraft-Server-Start)
+[![License](https://img.shields.io/badge/license-MIT-brightgreen?style=flat-square)](LICENSE) [![Pull Requests](https://img.shields.io/github/issues-pr-closed/katorlys/Minecraft-Server-Start?style=flat-square)](https://github.com/katorlys/Minecraft-Server-Start/pulls) [![Issues](https://img.shields.io/github/issues-closed/katorlys/Minecraft-Server-Start?style=flat-square)](https://github.com/katorlys/Minecraft-Server-Start/issues)
 
 ## Introduction
 This is a premade batch file script that enables you to start your Minecraft Server.  
@@ -38,5 +39,3 @@ Java -XX:+AlwaysPreTouch -XX:+DisableExplicitGC -XX:+UseG1GC -XX:+UnlockExperime
 `-Xms1G`: You can customize the storage allocation by changing the number "1".  
 `server-core.jar`: Your server core file name. Must put the server core and this batch file into the same folder.  
 `--nojline nogui`: Remove this code if you want to use the default GUI.
-
-**ProTip!** You can get more flags in [flags.sh](https://flags.sh).
